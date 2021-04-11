@@ -9,10 +9,13 @@ We use dataset from kaggle with more than 300 000 Kickstarter projects.
 Project is maintained as a Jupyter Notebook.
 
 ## Authors
-- Aleksandra Golofaeva (gola03@vse.cz)
-- Dmitrij Tkačenko (tkad06@vse.cz)
+- Aleksandra Golofaeva (@Kotojok)
+- Dmitrij Tkačenko (@dmitrijt9)
 
-## Requirements for running Python scripts
+## Requirements (packages) for running Python scripts
 - python3
 - pandas
+- numpy
 - matplotlib
+- sklearn
+- datetime
